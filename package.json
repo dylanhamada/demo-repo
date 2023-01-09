@@ -1,0 +1,22 @@
+{
+  "name": "demo-repo",
+  "version": "1.0.0",
+  "description": "Some text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanhamada/demo-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanhamada/demo-repo/issues"
+  },
+  "homepage": "https://github.com/dylanhamada/demo-repo#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1"
+  }
+}
